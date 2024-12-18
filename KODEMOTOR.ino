@@ -1,3 +1,4 @@
+//Library yang dibutuhkan
 #include <SPI.h>
 #include <MFRC522.h>
 
